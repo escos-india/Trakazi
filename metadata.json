@@ -1,0 +1,5 @@
+{
+  "name": "BioStats Experiment Configurator",
+  "description": "A comprehensive experiment configuration interface for textual, graphical, and statistical analysis of biological data.",
+  "requestFramePermissions": []
+}
